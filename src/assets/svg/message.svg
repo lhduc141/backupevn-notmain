@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Group_38661" data-name="Group 38661" transform="translate(535 -2942)">
+    <rect id="Rectangle_14719" data-name="Rectangle 14719" width="20" height="20" transform="translate(-535 2942)" fill="none"/>
+    <g id="chat" transform="translate(-533.75 2943.25)">
+      <g id="Group_38194" data-name="Group 38194" transform="translate(3.281 3.281)">
+        <g id="Group_38193" data-name="Group 38193">
+          <path id="Path_33448" data-name="Path 33448" d="M103.109,96H96.547a.547.547,0,0,0,0,1.094h6.563a.547.547,0,0,0,0-1.094Z" transform="translate(-96 -96)" fill="currentColor"/>
+        </g>
+      </g>
+      <g id="Group_38196" data-name="Group 38196" transform="translate(3.281 5.469)">
+        <g id="Group_38195" data-name="Group 38195">
+          <path id="Path_33449" data-name="Path 33449" d="M100.922,160H96.547a.547.547,0,0,0,0,1.094h4.375a.547.547,0,0,0,0-1.094Z" transform="translate(-96 -160)" fill="currentColor"/>
+        </g>
+      </g>
+      <g id="Group_38198" data-name="Group 38198">
+        <g id="Group_38197" data-name="Group 38197">
+          <path id="Path_33450" data-name="Path 33450" d="M12.031,0H2.188A2.19,2.19,0,0,0,0,2.188V13.125a.546.546,0,0,0,.315.5.555.555,0,0,0,.232.051.547.547,0,0,0,.35-.127l3.129-2.607h8.005A2.19,2.19,0,0,0,14.219,8.75V2.188A2.19,2.19,0,0,0,12.031,0Zm1.094,8.75a1.1,1.1,0,0,1-1.094,1.094h-8.2a.546.546,0,0,0-.35.127L1.094,11.958V2.188A1.1,1.1,0,0,1,2.188,1.094h9.844a1.1,1.1,0,0,1,1.094,1.094Z" fill="currentColor"/>
+        </g>
+      </g>
+      <g id="Group_38200" data-name="Group 38200" transform="translate(4.375 4.375)">
+        <g id="Group_38199" data-name="Group 38199">
+          <path id="Path_33451" data-name="Path 33451" d="M138.938,128a.547.547,0,0,0,0,1.094,1.1,1.1,0,0,1,1.094,1.094v9.252l-1.846-1.477a.551.551,0,0,0-.341-.119h-7.656a1.1,1.1,0,0,1-1.094-1.094V136.2a.547.547,0,0,0-1.094,0v.547a2.19,2.19,0,0,0,2.188,2.188h7.464l2.585,2.068a.547.547,0,0,0,.889-.428V130.188A2.19,2.19,0,0,0,138.938,128Z" transform="translate(-128 -128)" fill="currentColor"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

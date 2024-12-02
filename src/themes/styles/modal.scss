@@ -1,0 +1,105 @@
+.ant-modal:not(.ant-modal-confirm-confirm) {
+  .ant-modal-content {
+    @apply bg-backgroundColor1 p-0;
+  }
+  .ant-modal-close {
+    @apply top-4;
+  }
+  .ant-modal-header {
+    @apply mb-0 flex h-16 items-center bg-backgroundColor1 px-5;
+    border-bottom: 1px solid #dddd !important;
+
+    .ant-modal-title {
+      @apply flex-1 text-center text-base;
+    }
+  }
+  .ant-modal-body {
+    @apply px-6 pb-10 pt-6;
+  }
+  .ant-modal-footer {
+    @apply mt-0 h-20 px-6 py-5;
+    border-top: 1px solid #dddd !important;
+  }
+}
+
+.sticker-modal-root .sticker-modal-wrap {
+  @apply overflow-hidden;
+}
+.sticker-modal {
+  @apply relative bottom-0 top-0 flex min-h-[calc(100vh-40px)] flex-col justify-center overflow-hidden pb-0;
+  .sticker-modal-content {
+    @apply static max-h-[calc(100vh-40px)] overflow-auto scroll-smooth bg-transparent p-0 pb-20 shadow-none;
+  }
+  .sticker-modal-close {
+    @apply hidden;
+  }
+  .sticker-modal-header {
+    @apply sticky top-0 z-10 mb-0 mt-10 flex h-16 items-center bg-white px-5;
+    .sticker-modal-title {
+      @apply w-full;
+    }
+  }
+  .sticker-modal-body {
+    @apply bg-white px-5 pb-10 pt-6;
+  }
+  .sticker-modal-footer {
+    @apply absolute bottom-0 z-10 mt-0 h-20 w-full rounded-b-lg bg-white px-5 py-[14px];
+    border-top: 1px solid #dddd !important;
+  }
+}
+.sticker-modal-content::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.sticker-modal-content {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+.preview-file-modal-wrap {
+  @apply max-h-svh overflow-hidden !important;
+}
+.preview-file-modal {
+  @apply top-0 w-svw max-w-none !important;
+  .preview-file-modal-content {
+    @apply h-svh max-h-svh overflow-auto bg-transparent p-0;
+  }
+}
+
+.internal-chat-modal {
+  .internal-chat-modal-close {
+    @apply top-[6px] h-8 w-8 rounded-full;
+  }
+  .internal-chat-modal-content {
+    box-shadow: 0px 4px 16px #00000029;
+    @apply overflow-hidden p-0;
+  }
+  .internal-chat-modal-header {
+    @apply mb-0 min-h-[44px] bg-colorBgItemHover;
+  }
+}
+
+.small-modal {
+  .small-modal-close {
+    @apply top-4 h-8 w-8 rounded-full;
+  }
+  .small-modal-content {
+    @apply overflow-hidden bg-colorBgSmallModal p-0;
+  }
+  .small-modal-header {
+    @apply mb-0 h-16 bg-transparent;
+    .small-modal-title {
+      @apply mb-0 flex h-full flex-1 items-center justify-center text-base;
+    }
+  }
+  .small-modal-footer {
+    @apply flex h-[88px] items-center justify-end px-6;
+    border-top: solid 1px #d4d8de;
+  }
+}
+
+.ant-modal-body-p-none {
+  .ant-modal-content > .ant-modal-body {
+    @apply p-0;
+  }
+}

@@ -1,0 +1,94 @@
+.ant-input-outlined,
+.ant-input {
+  @apply border-colorBorderInput bg-colorBgInput;
+}
+
+.float-label {
+  .ant-input-outlined {
+    @apply h-float-label-height;
+  }
+  .ant-input-suffix {
+    @apply absolute right-3 top-1/2 -translate-y-1/2;
+  }
+}
+.float-label:not(.no-label) {
+  .ant-input-outlined {
+    @apply p-float-label-padding;
+  }
+}
+.float-label:not(.no-label) {
+  textarea {
+    @apply min-h-20;
+    padding: 24px 11px 0px 11px !important;
+  }
+}
+
+.ant-otp-input {
+  @apply h-12 w-14 rounded-[3px] bg-colorBgContainer text-2xl;
+}
+
+.ant-input-search {
+  @apply relative;
+  .ant-input-outlined,
+  .ant-input {
+    @apply h-12 rounded-lg pr-12;
+    border-start-end-radius: 8px !important;
+    border-end-end-radius: 8px !important;
+  }
+  > .ant-input-group {
+    @apply relative;
+    > .ant-input-group-addon:last-child {
+      @apply absolute right-[44px] top-1 z-[2];
+      inset-inline-start: inherit !important;
+      .ant-input-search-button {
+        @apply h-[40px] w-[40px] rounded-lg bg-colorPrimary;
+        color: white !important;
+      }
+    }
+    .anticon-search {
+      @apply text-xl;
+    }
+  }
+}
+
+.input-search-v2 {
+  .ant-input-wrapper {
+    @apply relative overflow-hidden rounded-lg !important;
+  }
+  .ant-input-outlined,
+  .ant-input {
+    @apply h-12 rounded-lg bg-white pl-[44px] pr-12;
+    border-start-end-radius: 8px !important;
+    border-end-end-radius: 8px !important;
+  }
+  .ant-input-group-addon {
+    @apply absolute left-0 top-1/2 z-[2] h-5 w-[44px] -translate-y-1/2 border-0 bg-red-50 bg-transparent p-0 !important;
+    .input-search-v2-button {
+      @apply h-5 w-5 border-0 bg-transparent text-colorTextPlaceholder shadow-none outline-none !important;
+      .anticon-search {
+        @apply text-xl;
+      }
+    }
+  }
+}
+
+.input-search {
+  .ant-input-wrapper {
+    @apply relative overflow-hidden rounded-lg !important;
+  }
+  .ant-input-outlined,
+  .ant-input {
+    @apply h-10 rounded-lg border-none bg-colorBgItemHover pl-[44px] pr-12;
+    border-start-end-radius: 8px !important;
+    border-end-end-radius: 8px !important;
+  }
+  .ant-input-group-addon {
+    @apply absolute left-0 top-1/2 z-[2] h-5 w-[44px] -translate-y-1/2 border-0 bg-red-50 bg-transparent p-0 !important;
+    .input-search-button {
+      @apply h-5 w-5 border-0 bg-transparent text-colorTextPlaceholder shadow-none outline-none !important;
+      .anticon-search {
+        @apply text-xl;
+      }
+    }
+  }
+}

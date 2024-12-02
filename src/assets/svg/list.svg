@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Group_41484" data-name="Group 41484" transform="translate(19118 -1942)">
+    <rect id="Rectangle_15743" data-name="Rectangle 15743" width="16" height="16" transform="translate(-19118 1942)"
+      fill="none" />
+    <g id="list" transform="translate(-19117 1945.16)" fill='currentColor'>
+      <g id="Group_41473" data-name="Group 41473" transform="translate(3.398 4.293)">
+        <g id="Group_41472" data-name="Group 41472">
+          <path id="Path_37098" data-name="Path 37098"
+            d="M134.317,236h-9.508a.547.547,0,0,0,0,1.094h9.508a.547.547,0,0,0,0-1.094Z"
+            transform="translate(-124.262 -236)" />
+        </g>
+      </g>
+      <g id="Group_41475" data-name="Group 41475" transform="translate(3.398 0.191)">
+        <g id="Group_41474" data-name="Group 41474">
+          <path id="Path_37099" data-name="Path 37099"
+            d="M134.317,86h-9.508a.547.547,0,0,0,0,1.094h9.508a.547.547,0,0,0,0-1.094Z"
+            transform="translate(-124.262 -86)" />
+        </g>
+      </g>
+      <g id="Group_41477" data-name="Group 41477" transform="translate(3.398 8.395)">
+        <g id="Group_41476" data-name="Group 41476">
+          <path id="Path_37100" data-name="Path 37100"
+            d="M134.317,386h-9.508a.547.547,0,0,0,0,1.094h9.508a.547.547,0,0,0,0-1.094Z"
+            transform="translate(-124.262 -386)" />
+        </g>
+      </g>
+      <g id="Group_41479" data-name="Group 41479">
+        <g id="Group_41478" data-name="Group 41478">
+          <circle id="Ellipse_2961" data-name="Ellipse 2961" cx="0.738" cy="0.738" r="0.738" />
+        </g>
+      </g>
+      <g id="Group_41481" data-name="Group 41481" transform="translate(0 4.102)">
+        <g id="Group_41480" data-name="Group 41480">
+          <circle id="Ellipse_2962" data-name="Ellipse 2962" cx="0.738" cy="0.738" r="0.738" />
+        </g>
+      </g>
+      <g id="Group_41483" data-name="Group 41483" transform="translate(0 8.203)">
+        <g id="Group_41482" data-name="Group 41482">
+          <circle id="Ellipse_2963" data-name="Ellipse 2963" cx="0.738" cy="0.738" r="0.738" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+.ant-btn:not(.ant-btn-circle) {
+  @apply h-10 font-semibold;
+}
+
+.ant-btn-link {
+  @apply font-medium text-colorPrimary underline;
+
+  background: transparent;
+  border: 0;
+  border-radius: 8px;
+
+  height: fit-content;
+  margin: -7px -8px;
+  padding: 7px 8px;
+  width: fit-content;
+}
+
+.ant-btn-link:not(:disabled):not(.ant-btn-disabled):hover {
+  @apply border-0 bg-colorBgIconHover text-colorPrimary;
+}
+.ant-btn-link:not(:disabled):not(.ant-btn-disabled):active {
+  @apply brightness-125;
+}
+.ant-btn-lg {
+  @apply h-12 px-9 text-base font-semibold;
+}
+
+.ant-btn-icon-only {
+  @apply h-8 w-8;
+}
+
+.active-btn {
+  @apply bg-colorBgSpotlight text-white;
+  .header-badge {
+    @apply text-white;
+  }
+}

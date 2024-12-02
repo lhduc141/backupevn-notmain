@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path2646" d="M21-682.665H0v21H21Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_38206" data-name="Group 38206" transform="translate(2570 -3527)">
+    <rect id="Rectangle_14721" data-name="Rectangle 14721" width="24" height="24" transform="translate(-2570 3527)" fill="none"/>
+    <g id="exit" transform="translate(-2568.5 3528.5)">
+      <g id="g2640">
+        <g id="g2642">
+          <g id="g2644" clip-path="url(#clip-path)">
+            <g id="g2650" transform="translate(7.014 0.82)">
+              <path id="path2652" d="M-428-480.741v1.641a2.461,2.461,0,0,0,2.461,2.461h8.244a2.461,2.461,0,0,0,2.461-2.461v-14.437A2.461,2.461,0,0,0-417.294-496h-8.244A2.461,2.461,0,0,0-428-493.538v1.641" transform="translate(427.999 495.999)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+            </g>
+            <g id="g2654" transform="translate(1.025 10.541)">
+              <path id="path2656" d="M-361.332,0h11.115" transform="translate(361.332)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+            </g>
+            <g id="g2658" transform="translate(0.82 7.834)">
+              <path id="path2660" d="M2.2-170.585.36-172.422a1.23,1.23,0,0,1,0-1.74L2.2-176" transform="translate(0 176)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.6"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

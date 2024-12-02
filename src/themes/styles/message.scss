@@ -1,0 +1,19 @@
+.system-message {
+  .ant-message-notice-content {
+    @apply overflow-hidden rounded-full p-0 text-white !important;
+    .ant-message-error,
+    .ant-message-success {
+      @apply h-12 gap-3 px-6 !important;
+    }
+    .ant-message-success {
+      @apply bg-colorBgSuccess !important;
+    }
+    .ant-message-error {
+      @apply bg-colorBgError !important;
+    }
+  }
+}
+
+.ant-message-top {
+  @apply top-8 !important;
+}

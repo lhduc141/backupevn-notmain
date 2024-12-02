@@ -1,0 +1,21 @@
+export const shiftsMessages = {
+  create: 'Tạo mới ca trực',
+  update: 'Cập nhật ca trực',
+  shiftId: 'ID ca trực',
+  code: 'Mã quản lý',
+  name: 'Tên ca trực',
+  fromTime: 'Thời gian bắt đầu',
+  toTime: 'Thời gian kết thúc',
+  time: 'Thời gian ca trực',
+  loadShift: 'Tải ca trực',
+  activeShift: 'Chọn ca trực',
+  startShifts: 'Bắt đầu ca',
+  pleaseSelectShift: 'Vui lòng chọn ca',
+  notHasShiftValid: 'Hiện tại không có ca trực hoạt động',
+  startWithoutShift: 'Bắt đầu làm việc không có ca trực',
+  delete: 'Xóa ca trực',
+  confirmDelete: 'Bạn có chắc chắn muốn xóa ca trực này không?',
+  icon: 'Biểu tượng',
+  findByName: 'Tìm kiếm theo tên ca trực',
+  selectIcon: 'Chọn biểu tượng'
+};

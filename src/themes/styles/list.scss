@@ -1,0 +1,67 @@
+// .list-items-pt-3{
+//     .ant-list-items{
+//         @apply pt-3
+//     }
+// }
+
+// .list-items-pb-5{
+//     .ant-list-items{
+//         @apply pb-5
+//     }
+// }
+
+// .list-item-px-5{
+//     .ant-list-items{
+//         @apply px-5
+//     }
+// }
+// .ant-list {
+//     display: flex;
+//     flex-wrap: nowrap; /* Ensures the list items are displayed in a row without wrapping */
+//     align-items: center;
+//     justify-content: center
+// }
+// .ant-card-body-px-5 {
+//     @apply px-2;
+// }
+
+// .list-item-px-0-py-4 {
+//     .ant-list-item {
+//         @apply p-0 py-4;
+//     }
+// }
+
+.list-item-hover-animation {
+  .ant-list-item {
+    @apply px-3 py-4; /* Initial padding and margin */
+    position: relative; /* For positioning adjustments */
+    box-shadow:
+      1vw 0 0 #fff inset,
+      /* Adjusted starting point for left shadow */ -1vw 0 0 #fff inset; /* Adjusted starting point for right shadow */
+    transition: 0.3s all;
+    &:hover {
+      box-shadow:
+        0 0 0 #fff inset,
+        /* Remove the left inset shadow */ 0 0 0 #fff inset; /* Remove the right inset shadow */
+    }
+  }
+}
+.list-item-hover {
+  @apply px-2;
+  .ant-list-item {
+    &:last-child {
+      border-bottom: 1px solid #ebebed;
+    }
+    &:hover {
+      @apply rounded-[12px] border-[#F7F8F9] bg-[#F7F8F9] bg-clip-padding bg-no-repeat opacity-100;
+    }
+  }
+}
+
+.item-active {
+  div,
+  p,
+  span {
+    color: #fff !important;
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_41298" data-name="Group 41298" transform="translate(14856 5910)">
+    <rect id="Rectangle_15668" data-name="Rectangle 15668" width="40" height="40" transform="translate(-14856 -5910)" fill="none"/>
+    <g id="photo-camera" transform="translate(-14853.5 -5904)">
+      <g id="Group_41295" data-name="Group 41295" transform="translate(0 0)">
+        <g id="Group_41294" data-name="Group 41294">
+          <path id="Path_37058" data-name="Path 37058" d="M30.815,51.974H27.163L25.147,48.93A4.19,4.19,0,0,0,21.685,47.1h-8.37A4.19,4.19,0,0,0,9.853,48.93L7.837,51.974H4.185A4.173,4.173,0,0,0,0,56.158V70.919A4.173,4.173,0,0,0,4.185,75.1h26.63A4.173,4.173,0,0,0,35,70.919V56.158A4.173,4.173,0,0,0,30.815,51.974ZM17.5,71.68a9.416,9.416,0,1,1,9.435-9.4A9.433,9.433,0,0,1,17.5,71.68ZM30.283,57.87H28.609a1.238,1.238,0,0,1,0-2.473H30.13a1.235,1.235,0,0,1,1.293,1.179A1.2,1.2,0,0,1,30.283,57.87Z" transform="translate(0 -47.104)" fill="currentColor"/>
+        </g>
+      </g>
+      <g id="Group_41297" data-name="Group 41297" transform="translate(12.25 9.929)">
+        <g id="Group_41296" data-name="Group 41296" transform="translate(0 0)">
+          <path id="Path_37059" data-name="Path 37059" d="M170.114,180.736a5.231,5.231,0,1,0,5.25,5.212A5.261,5.261,0,0,0,170.114,180.736Z" transform="translate(-164.864 -180.736)" fill="currentColor"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

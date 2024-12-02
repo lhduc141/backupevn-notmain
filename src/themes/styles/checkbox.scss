@@ -1,0 +1,36 @@
+.ant-tree .ant-tree-checkbox .ant-tree-checkbox-inner,
+.ant-checkbox .ant-checkbox-inner {
+  @apply h-5 w-5 rounded-[3px];
+}
+.ant-checkbox-wrapper.ant-checkbox-wrapper-in-form-item input[type='checkbox'] {
+  @apply h-5 w-5;
+}
+.ant-tree .ant-tree-checkbox .ant-tree-checkbox-inner:after,
+.ant-checkbox .ant-checkbox-inner:after {
+  @apply start-[30%];
+}
+.ant-checkbox + span {
+  @apply text-sm text-colorTextBase;
+}
+
+.ant-tree .ant-tree-checkbox-indeterminate .ant-tree-checkbox-inner:after,
+.ant-checkbox-indeterminate .ant-checkbox-inner:after {
+  @apply top-0 h-5 w-5 -translate-x-[30%] translate-y-0 scale-75 rounded-sm;
+}
+
+.ant-tree .ant-tree-checkbox {
+  @apply mt-0 self-center;
+}
+.ant-tree .ant-tree-switcher {
+  @apply mr-1 rounded-base;
+  .ant-tree-switcher-icon {
+    @apply align-middle;
+  }
+}
+.ant-tree .ant-tree-checkbox + span {
+  @apply rounded-sm;
+}
+
+.ant-tree-select-dropdown .ant-select-tree-checkbox .ant-select-tree-checkbox-inner {
+  @apply h-5 w-5 rounded-sm;
+}

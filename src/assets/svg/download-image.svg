@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path2943" d="M0-682.665H14v14H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_41436" data-name="Group 41436" transform="translate(18882 7383)">
+    <rect id="Rectangle_15707" data-name="Rectangle 15707" width="16" height="16" transform="translate(-18882 -7383)" fill="none"/>
+    <g id="g2937" transform="translate(-18881 -6699.335)">
+      <g id="g2939" transform="translate(0 -682.665)">
+        <g id="g2941" clip-path="url(#clip-path)">
+          <g id="g2947" transform="translate(0.547 0.547)">
+            <path id="path2949" d="M-151.494-417.916h-2.078a1.094,1.094,0,0,1-1.094-1.094v-6.562a1.094,1.094,0,0,1,1.094-1.094h10.719a1.094,1.094,0,0,1,1.094,1.094v6.563a1.094,1.094,0,0,1-1.094,1.094h-2.078" transform="translate(154.666 426.666)" fill="none" stroke="currentColor" stroke-width="1"/>
+          </g>
+          <g id="g2951" transform="translate(4.813 9.297)">
+            <path id="path2953" d="M0,0,2.188,2.188,4.375,0" fill="none" stroke="currentColor" stroke-width="1"/>
+          </g>
+          <g id="g2955" transform="translate(7 6.563)">
+            <path id="path2957" d="M0,0V4.922" fill="none" stroke="currentColor" stroke-width="1"/>
+          </g>
+          <g id="g2959" transform="translate(4.266 13.453)">
+            <path id="path2961" d="M0,0H5.469" transform="translate(0 0)" fill="none" stroke="currentColor" stroke-width="1"/>
+          </g>
+          <g id="g2963" transform="translate(0.836 3.281)">
+            <path id="path2965" d="M0-270.451l4.524-5.663,1.641,1.641L7.8-276.114l4.524,5.663" transform="translate(0 276.114)" fill="none" stroke="currentColor" stroke-width="1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

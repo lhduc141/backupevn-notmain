@@ -1,0 +1,116 @@
+.float-label {
+  @apply relative;
+}
+.float-label.ant-form-item {
+  @apply mb-0;
+}
+
+// label
+
+.label {
+  @apply absolute left-3 text-base text-colorTextLabel;
+  top: 18px;
+  pointer-events: none;
+  transition: 0.2s ease all;
+  z-index: 2;
+}
+.has-value .label,
+.label-float {
+  @apply text-xs;
+  top: 8px;
+}
+
+.float-label:focus-within,
+.float-label:hover {
+  z-index: 2;
+}
+
+.ant-space-compact:not(.ant-space-compact-vertical) {
+  .float-label {
+    margin-inline-end: -1px;
+  }
+}
+.ant-space-compact:not(.ant-space-compact-vertical) {
+  .float-label-item-has-error .float-label {
+    margin-inline-end: 0px;
+  }
+}
+
+.ant-space-compact-vertical {
+  .float-label {
+    margin-block-end: -1px;
+  }
+  .float-label-item {
+    margin-bottom: 0px;
+  }
+}
+
+[class*='compact-vertical-first-item'] {
+  @apply rounded-b-none;
+  > .ant-select-selector {
+    @apply rounded-b-none;
+  }
+}
+
+[class*='compact-vertical-last-item'] {
+  @apply rounded-t-none;
+  > .ant-select-selector {
+    @apply rounded-t-none;
+  }
+}
+
+[class*='compact-vertical-item']:not([class*='compact-vertical-first-item']):not(
+    [class*='compact-vertical-last-item']
+  ) {
+  @apply rounded-none;
+}
+
+.ant-space-compact-vertical {
+  > .ant-space-compact:first-of-type {
+    > div:first-of-type {
+      [class*='compact-item'] > .ant-select-selector,
+      [class*='compact-item'] {
+        @apply rounded-none rounded-tl-base;
+      }
+    }
+    > div:last-of-type {
+      [class*='compact-item'] > .ant-select-selector,
+      [class*='compact-item'] {
+        @apply rounded-none rounded-tr-base;
+      }
+    }
+  }
+  > .ant-space-compact:last-of-type {
+    > div:first-of-type {
+      [class*='compact-item'] > .ant-select-selector,
+      [class*='compact-item'] {
+        @apply rounded-none rounded-bl-base;
+      }
+    }
+    > div:last-of-type {
+      [class*='compact-item'] > .ant-select-selector,
+      [class*='compact-item'] {
+        @apply rounded-none rounded-br-base;
+      }
+    }
+  }
+}
+.float-label .ant-picker .ant-picker-input {
+  @apply static;
+}
+
+.float-label .ant-picker .ant-picker-suffix {
+  @apply absolute right-3 top-1/2 -translate-y-1/2;
+}
+
+.float-label.float-required .label::after {
+  @apply inline-block text-mainColor2;
+  content: '*';
+}
+
+.float-label .ant-input-number .ant-input-number-handler-wrap {
+  @apply right-3 top-1/2 h-fit -translate-y-1/2 opacity-100;
+}
+.float-label .ant-input-number .ant-input-number-handler-wrap .ant-input-number-handler {
+  @apply flex h-5 max-h-5 w-5 rounded-[4px] border-none leading-5 hover:bg-colorBgIconHover hover:text-colorTextBase;
+}

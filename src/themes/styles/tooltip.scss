@@ -1,0 +1,7 @@
+.ant-tooltip .ant-tooltip-inner {
+  @apply bg-subTextColor;
+}
+
+.ant-tooltip .ant-tooltip-arrow {
+  --antd-arrow-background-color: #868d97;
+}

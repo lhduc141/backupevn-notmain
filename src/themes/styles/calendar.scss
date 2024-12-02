@@ -1,0 +1,113 @@
+.custom-calendar {
+  @apply w-[224px] overflow-hidden bg-white;
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  tr,
+  th,
+  td {
+    padding: 0px;
+  }
+  .day {
+    @apply relative flex h-8 w-8 cursor-pointer items-center justify-center rounded-sm text-xs text-colorTextBase transition-colors;
+  }
+  .day:not(.disabled) {
+    @apply hover:bg-textHoverBg;
+  }
+
+  .other-month {
+    @apply text-colorTextSecondary;
+  }
+
+  .is-weekend {
+    @apply text-[#868D97];
+  }
+
+  .is-today::after {
+    @apply absolute bottom-1 h-1 w-1 rounded-full bg-colorPrimary;
+    content: '';
+    left: 50%; /* Căn giữa theo chiều ngang */
+    transform: translateX(-50%);
+  }
+  .is-selected {
+    @apply bg-colorContrast text-colorTextContrast;
+  }
+  .is-selected:not(.disabled) {
+    @apply hover:bg-colorTextLabelContrast;
+  }
+  .is-in-range {
+    @apply rounded-none bg-colorBorderInput;
+  }
+  .is-start {
+    @apply bg-colorContrast text-colorTextContrast rounded-l-sm;
+  }
+  .is-end {
+    @apply bg-colorContrast text-colorTextContrast rounded-r-sm;
+  }
+  .is-start:not(.disabled),
+  .is-end:not(.disabled) {
+    @apply hover:bg-colorTextLabelContrast;
+  }
+
+  .first-day-of-month.is-in-range:not(.is-start) {
+    /** ml 48px + w 32px ==> pl-80px */
+    @apply -ml-12 items-center pl-20;
+    span {
+      @apply absolute right-0 translate-x-[calc(50%-16px)];
+    }
+  }
+  .first-day-of-month.is-in-range:not(.is-end):not(.is-start) {
+    background-image: linear-gradient(to right, #ffff 5%, #ebebed 95%);
+  }
+  .first-day-of-month.is-in-range.is-end {
+    background-image: linear-gradient(to right, #ffff 30%, #d1131d);
+  }
+  .first-day-of-month.is-in-range.is-end:hover {
+    background-image: linear-gradient(to right, #ffff 30%, #df656c);
+  }
+
+  .last-day-of-month.is-in-range:not(.is-end) {
+    /** mr 48px + w 32px ==> pr-80px */
+    @apply -mr-12 items-center pr-20;
+    span {
+      @apply absolute left-0 translate-x-[calc(16px-50%)];
+    }
+  }
+
+  .last-day-of-month.is-in-range:not(.is-end):not(.is-start) {
+    background-image: linear-gradient(to left, #ffff 5%, #ebebed 95%);
+  }
+  .last-day-of-month.is-in-range.is-start {
+    background-image: linear-gradient(to left, #ffff 5%, #d1131d 95%);
+  }
+  .last-day-of-month.is-in-range.is-start:hover {
+    background-image: linear-gradient(to left, #ffff 5%, #df656c 95%);
+  }
+
+  .disabled {
+    @apply opacity-70;
+  }
+}
+
+
+.custom-calendar-customer-lookup .ant-picker-calendar-header {
+  border: none; /* Bỏ border của header */
+}
+
+.custom-calendar-customer-lookup {
+  .ant-picker-content{
+      height: 0px;
+      font-size: 12px;
+      border-top: 0px;
+      thead{
+          display: none;
+      }
+  }
+  .ant-picker-cell {
+    @apply p-0
+  }
+  .ant-picker-panel{
+      @apply border-t-0
+  }
+}

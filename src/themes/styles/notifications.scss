@@ -1,0 +1,16 @@
+.ant-notification-notice {
+  @apply w-[456px] p-6 !important;
+  .ant-notification-notice-with-icon {
+    @apply w-[calc(100%-40px)];
+  }
+  .ant-notification-notice-message {
+    @apply mb-2 font-semibold !important;
+    margin-inline-start: 64px !important;
+  }
+  .ant-notification-notice-description {
+    margin-inline-start: 64px !important;
+  }
+  .ant-notification-notice-close {
+    @apply top-4 h-8 w-8 rounded-full text-colorTextBase hover:bg-textHoverBg !important;
+  }
+}

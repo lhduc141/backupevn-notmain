@@ -1,0 +1,6 @@
+a.ant-typography,
+.ant-typography a {
+  @apply text-colorTextBase;
+  font-family: inherit;
+  text-decoration: underline;
+}

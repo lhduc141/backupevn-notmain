@@ -1,0 +1,40 @@
+.ant-table-content .ant-table-thead > tr > th {
+  @apply py-3 text-xs font-semibold leading-[15px];
+}
+
+.ant-table-content .ant-table-tbody > tr > td {
+  @apply py-5 text-sm text-colorTextBase;
+}
+
+.ant-table-container table > thead > tr:first-child > :last-child {
+  border-radius: 0 !important;
+}
+.ant-table-container table > thead > tr:first-child > :first-child {
+  border-radius: 0 !important;
+}
+
+.ant-table-th-pl-none {
+  .ant-table-thead > tr > th:last-child {
+    @apply pl-0;
+  }
+}
+.ant-table-tb-padding-none {
+  .ant-table-tbody > tr > td:nth-child(2) {
+    @apply pr-0;
+  }
+  .ant-table-tbody > tr > td:last-child {
+    @apply pl-0 pr-0;
+  }
+}
+.ant-table-tb-item-center {
+  .ant-table-tbody > tr > td {
+    @apply place-items-center;
+  }
+}
+.ant-table-thead > tr > th {
+  @apply uppercase text-subTextColor !important;
+}
+
+.ant-table-row.disabled-row {
+  @apply opacity-50;
+}

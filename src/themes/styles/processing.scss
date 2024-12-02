@@ -1,0 +1,54 @@
+.custom-timeline .ant-timeline-item-tail {
+  margin-left: -32px;
+  top: 30px;
+  border-left: 2px dashed #d9d9d9;
+  height: 60%;
+  width: 2px;
+  z-index: 1;
+}
+
+.showAll-timeline .ant-timeline-item-tail {
+  margin-left: 0px;
+}
+
+.ant-tooltip-inner {
+  background-color: #222a41 !important;
+}
+
+.file-download-icon,
+.file-image-container {
+  width: 72px;
+  height: 72px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  cursor: pointer;
+  background-color: #ffffff;
+  transition:
+    background-color 1s ease,
+    transform 0.5s ease;
+
+  &.hover-active {
+    background-color: #001529;
+    color: white;
+  }
+}
+
+.file-image {
+  border-radius: 8px;
+}
+
+.hidden {
+  display: none;
+}
+
+.cloud-icon {
+  font-size: 24px;
+  position: absolute;
+}
+
+.file-icon {
+  font-size: 24px;
+}

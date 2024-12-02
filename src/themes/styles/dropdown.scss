@@ -1,0 +1,19 @@
+.message-dropdown {
+  .message-dropdown-menu {
+    @apply py-2 !important;
+  }
+  .message-dropdown-menu-item {
+    @apply h-10 min-w-[200px] px-4 !important;
+  }
+  .message-dropdown-menu-item-icon {
+    margin-inline-end: 16px !important;
+    width: 20px !important;
+    height: 20px !important;
+  }
+  .message-dropdown-menu-title-content {
+    @apply text-sm;
+  }
+}
+.message-dropdown .message-dropdown-menu {
+  @apply p-0;
+}

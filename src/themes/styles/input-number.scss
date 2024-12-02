@@ -1,0 +1,14 @@
+.ant-input-number .ant-input-number-input {
+  @apply border-colorBorderInput bg-colorBgInput;
+}
+
+.float-label {
+  .ant-input-number .ant-input-number-input {
+    @apply h-float-label-height;
+  }
+}
+.float-label:not(.no-label) {
+  .ant-input-number .ant-input-number-input {
+    @apply p-float-label-padding;
+  }
+}

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path451" d="M0-682.665H21v21H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_41313" data-name="Group 41313" transform="translate(21025 2669)">
+    <rect id="Rectangle_15675" data-name="Rectangle 15675" width="24" height="24" transform="translate(-21025 -2669)" fill="none"/>
+    <g id="check-mark" transform="translate(-21023.5 -2667.5)">
+      <g id="g441">
+        <g id="g443" transform="translate(6.438 7.748)">
+          <path id="path445" d="M-255.939,0l-5.5,5.5-2.62-2.62" transform="translate(264.062)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="g447">
+          <g id="g449" clip-path="url(#clip-path)">
+            <g id="g455" transform="translate(0.82 0.82)">
+              <path id="path457" d="M-609.972-304.986a9.68,9.68,0,0,1-9.68,9.68,9.68,9.68,0,0,1-9.68-9.68,9.68,9.68,0,0,1,9.68-9.68A9.68,9.68,0,0,1-609.972-304.986Z" transform="translate(629.332 314.666)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

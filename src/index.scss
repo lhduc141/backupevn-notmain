@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('./themes/styles/table.scss');
+@import url('./themes/styles/side-bar.scss');
+@import url('./themes/styles/button.scss');
+@import url('./themes/styles/input.scss');
+@import url('./themes/styles/form.scss');
+@import url('./themes/styles/modal.scss');
+@import url('./themes/styles/checkbox.scss');
+@import url('./themes/styles/select.scss');
+@import url('./themes/styles/float-label.scss');
+@import url('./themes/styles/date-picker.scss');
+@import url('./themes/styles/skeleton.scss');
+@import url('./themes/styles/popover.scss');
+@import url('./themes/styles/upload.scss');
+@import url('./themes/styles/card.scss');
+@import url('./themes/styles/input-number.scss');
+@import url('./themes/styles/tabs.scss');
+@import url('./themes/styles/scroll-bar.scss');
+@import url('./themes/styles/search.scss');
+@import url('./themes/styles/menu.scss');
+@import url('./themes/styles/calendar.scss');
+@import url('./themes//styles/list.scss');
+@import url('./themes/styles/animation.scss');
+@import url('./themes/styles/carousel.scss');
+@import url('./themes/styles/badge.scss');
+@import url('./themes/styles/notifications.scss');
+@import url('./themes/styles/message.scss');
+@import url('./themes/styles/drawer.scss');
+@import url('./themes/styles/loading-three-dot.scss');
+@import url('./themes/styles/anim.scss');
+@import url('./themes/styles/dropdown.scss');
+@import url('./themes/styles/tooltip.scss');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap');
+@import url('./themes/styles/tree.scss');
+@import url('./themes/styles/radio.scss');
+@import url('./themes/styles/processing.scss');
+@import url('./themes/styles/typography.scss');
+@import url('./themes/styles/avatar.scss');
+
+:root {
+  --float-label-height: 56px;
+  --float-label-padding: 15px 11px 0px 11px;
+  --sider-width: 72px;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-optical-sizing: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(240, 242, 248);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+.image-group {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+  grid-gap: 10px;
+}
+
+.image-item {
+  width: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.hidden-container {
+  @apply h-11;
+
+  .hidden-container-text {
+    @apply cursor-pointer;
+  }
+
+  .hidden-content {
+    @apply hidden;
+  }
+
+  &:hover,
+  &:focus {
+    .hidden-content {
+      @apply block;
+    }
+    .hidden-container-text {
+      @apply underline;
+    }
+  }
+}
+
+.required-field::after {
+  @apply inline-block text-mainColor2;
+  content: '*';
+}

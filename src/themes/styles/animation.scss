@@ -1,0 +1,30 @@
+.circle-expand-animation {
+  position: relative;
+  background-color: var(--main-color);
+
+  &::after {
+    content: '';
+    position: absolute;
+    z-index: -1;
+    border: 1px solid var(--main-color);
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+    top: 10px;
+    left: 19px;
+    //transform: translate(-50%, -50%);
+    transition: all 0.17s ease-out; /* Smoother transition */
+    background-color: var(--main-color);
+  }
+
+  &:hover {
+    &::after {
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      transform: none;
+      border-radius: 0;
+    }
+  }
+}

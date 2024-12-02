@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path2892" d="M0-682.665H21v21H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_40807" data-name="Group 40807" transform="translate(11085 18485)">
+    <rect id="Rectangle_15351" data-name="Rectangle 15351" width="24" height="24" transform="translate(-11085 -18485)" fill="none"/>
+    <g id="g2886" transform="translate(-11083.5 -18483.502)">
+      <g id="g2888">
+        <g id="g2890" clip-path="url(#clip-path)">
+          <g id="g2896" transform="translate(4.973 0.615)">
+            <path id="path2898" d="M0,0V2.375C0,7.229,5.527,9.885,5.527,9.885s5.526-2.656,5.526-7.509V0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2900" transform="translate(4.973 10.5)">
+            <path id="path2902" d="M-174.129,0s-5.527,2.656-5.527,7.509V9.885H-168.6V7.509C-168.6,2.656-174.129,0-174.129,0Z" transform="translate(179.656 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2904" transform="translate(3.486 0.615)">
+            <path id="path2906" d="M-46.872,0H-48.36" transform="translate(48.36)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2908" transform="translate(16.027 0.615)">
+            <path id="path2910" d="M0,0H1.488" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2912" transform="translate(3.486 20.385)">
+            <path id="path2914" d="M-46.872,0H-48.36" transform="translate(48.36 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2916" transform="translate(16.027 20.385)">
+            <path id="path2918" d="M0,0H1.488" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2920" transform="translate(5.58 5.706)">
+            <path id="path2922" d="M0,0H9.775" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+          <g id="g2924" transform="translate(4.973 16.43)">
+            <path id="path2926" d="M-78.469-40.978l-2.49,2.654h10.989l-2.491-2.654A4.12,4.12,0,0,0-78.469-40.978Z" transform="translate(80.96 42.279)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

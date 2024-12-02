@@ -1,0 +1,17 @@
+.notification-drawer-content {
+  .notification-drawer-header {
+    @apply border-b-0 px-5 py-6;
+  }
+  .notification-drawer-body {
+    @apply p-0;
+  }
+  .notification-drawer-footer {
+    @apply h-[66px] px-5 pt-4;
+  }
+  .notification-drawer-header-title {
+    @apply flex flex-row-reverse;
+  }
+  .notification-drawer-close {
+    @apply absolute mr-0 h-8 w-8 rounded-full hover:bg-textHoverBg;
+  }
+}

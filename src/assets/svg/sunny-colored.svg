@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29.8" height="29.8" viewBox="0 0 29.8 29.8">
+  <g id="daylight" transform="translate(0.9 0.9)">
+    <g id="Group_39282" data-name="Group 39282" transform="translate(3.933 3.933)">
+      <line id="Line_2616" data-name="Line 2616" x1="1.678" y1="1.678" transform="translate(18.457 18.457)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+      <line id="Line_2617" data-name="Line 2617" x1="1.678" y1="1.678" transform="translate(0 0)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    </g>
+    <line id="Line_2618" data-name="Line 2618" x1="2.373" transform="translate(25.627 14)" fill="none" stroke="currentColor"
+      stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <line id="Line_2619" data-name="Line 2619" x1="2.373" transform="translate(0 14)" fill="none" stroke="currentColor"
+      stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <line id="Line_2620" data-name="Line 2620" x1="1.678" y2="1.678" transform="translate(22.389 3.933)" fill="none"
+      stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <line id="Line_2621" data-name="Line 2621" x1="1.678" y2="1.678" transform="translate(3.933 22.389)" fill="none"
+      stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <line id="Line_2622" data-name="Line 2622" y1="2.373" transform="translate(14 25.627)" fill="none" stroke="currentColor"
+      stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <line id="Line_2623" data-name="Line 2623" y1="2.373" transform="translate(14)" fill="none" stroke="currentColor"
+      stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.8" />
+    <circle id="Ellipse_2825" data-name="Ellipse 2825" cx="7.119" cy="7.119" r="7.119"
+      transform="translate(6.881 6.881)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round"
+      stroke-miterlimit="10" stroke-width="1.8" />
+  </g>
+</svg>

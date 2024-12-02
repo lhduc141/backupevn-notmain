@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path1350" d="M0-682.665H21v21H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_40966" data-name="Group 40966" transform="translate(9405 23048)">
+    <rect id="Rectangle_15550" data-name="Rectangle 15550" width="24" height="24" transform="translate(-9405 -23048)" fill="none"/>
+    <g id="g1344" transform="translate(-9403.5 -23046.502)">
+      <g id="g1346">
+        <g id="g1348" clip-path="url(#clip-path)">
+          <g id="g1354" transform="translate(13.617 10.5)">
+            <path id="path1356" d="M0-304.986v-9.68H3.281v9.68" transform="translate(0 314.666)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1358" transform="translate(10.336 13.781)">
+            <path id="path1360" d="M0-201.6V-208H3.281" transform="translate(0 207.999)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1362" transform="translate(3.117 7.219)">
+            <path id="path1364" d="M0,0H8.2" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1366" transform="translate(3.117 10.5)">
+            <path id="path1368" d="M0,0H8.2" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1370" transform="translate(3.117 13.781)">
+            <path id="path1372" d="M-155.078,0H-160" transform="translate(160)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1374" transform="translate(7.055 7.219)">
+            <path id="path1376" d="M-103.385-310.155h-3.281v3.117h13.125V-320h-3.281v3.281" transform="translate(106.666 319.999)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+          <g id="g1378" transform="translate(0.82 0.82)">
+            <path id="path1380" d="M-118.893-609.972h-2.133a1.641,1.641,0,0,1-1.641-1.641v-16.078a1.641,1.641,0,0,1,1.641-1.641h9.516a1.641,1.641,0,0,1,1.641,1.641v5.578" transform="translate(122.666 629.332)" fill="none" stroke="currentColor" stroke-width="1.5"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

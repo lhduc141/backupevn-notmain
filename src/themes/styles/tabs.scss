@@ -1,0 +1,127 @@
+.user-tab-content .user-tab-content-content-holder {
+  @apply -mb-5 -ml-5 -mt-6 h-[calc(100%+24px)] max-h-[calc(100vh-168px)] w-[calc(100%+40px)] overflow-y-auto px-5 pb-8 pt-6;
+}
+
+.border-bottom-none-nav-tab{
+  .ant-tabs .ant-tabs-nav::before {
+    border-bottom: none !important; /* Removes the bottom border (the line) */
+  }
+}
+
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn{
+  text-shadow: none;
+  background-color: #6C737E;
+  border: 1px solid #6C737E;
+  color: #FFFFFF !important;
+}
+
+.ant-tabs-tab-custom-btn{
+  .ant-tabs-tab-btn{
+   @apply text-[#181818] px-4 py-[9px] rounded-[18px] text-[14px] border border-[#DEE2E6] hover:bg-[#EBEBED]
+  }
+}
+.ant-tabs-tab-margin-none{
+  .ant-tabs-tab{
+    margin: 0px !important;
+  }
+}
+
+.ant-tabs-nav-mb-3{
+  .ant-tabs-nav{
+   @apply mb-3
+  }
+}
+
+.ant-tabs-nav-mb-4{
+  .ant-tabs-nav{
+   @apply mb-3
+  }
+}
+
+.center-antd-nav-tabs-wrap{
+  .ant-tabs-nav-wrap{
+    @apply flex justify-center items-center
+  }
+}
+
+.mb-20px-ant-tabs-nav{
+  .ant-tabs-nav-mb-4 .ant-tabs-nav{
+    @apply mb-5
+  }
+}
+
+.ant-tabs-tab:last-child{
+  margin-left: auto !important;
+}
+
+.ant-tabs-tab-active .icon-default {
+  @apply opacity-0 hidden; /* Smoothly fade out and hide */
+}
+
+/* Show the hover icon and apply white color when the tab is active, with smooth transition */
+.ant-tabs-tab-active .icon-hover {
+  @apply opacity-100 block; /* Smoothly fade in and show */
+}
+
+/* Hide the default icon on hover, with smooth transition */
+.group:hover .icon-default {
+  @apply opacity-0 hidden; /* Fade out before hiding */
+}
+
+/* Show the hover icon on hover, with smooth transition */
+.group:hover .icon-hover {
+  @apply opacity-100 block; /* Fade in and show */
+}
+
+.icon-hover{
+  @apply hidden
+}
+.ant-tabs-focus-visible-black{
+  .ant-tabs-tab-btn:focus,
+  .ant-tabs-tab-btn:focus-visible,
+  .ant-tabs-tab-btn:active {
+    color: #000 !important; /* Set text color to black */
+    outline: none !important; /* Remove blue focus outline */
+  }
+}
+
+.ant-card-tabs-spacing-adj{
+  .ant-tabs-nav .ant-tabs-tab{
+    @apply py-0 my-4
+  }
+}
+
+.ant-tabs-nav-list-mt-3-ml-120px {
+  .ant-tabs-nav-list{
+    @apply mt-3 ml-[120px]
+  }
+}
+
+.ant-tabs-nav-list-spacing-adj{
+  .ant-tabs-nav-list {
+    @apply flex justify-center items-center space-x-2
+  }
+}
+
+.tablist-pt-3{
+  .ant-space-item{
+    @apply pt-3
+  }
+}
+
+.internal-chat-tabs .internal-chat-tabs-nav {
+  @apply m-0;
+}
+
+.notifications-tabs-nav-wrap {
+  @apply px-5;
+}
+.notifications-tabs-tab-btn {
+  @apply text-base font-semibold;
+}
+.notifications-tabs-top > .notifications-tabs-nav {
+  @apply mb-0;
+}
+.notifications-tabs .notifications-tabs-tab {
+  @apply pb-4;
+}

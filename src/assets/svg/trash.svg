@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_41414" data-name="Group 41414" transform="translate(12422 17260)">
+    <rect id="Rectangle_15361" data-name="Rectangle 15361" width="24" height="24" transform="translate(-12422 -17260)"
+      fill="none" />
+    <g id="Bin_x2F_delete_layer_1_" transform="translate(-12418.897 -17258.5)">
+      <path id="Path_36968" data-name="Path 36968"
+        d="M73.8,100a1.78,1.78,0,0,0-1.78,1.78v13.881a1.78,1.78,0,0,1-1.78,1.78H59.559a1.78,1.78,0,0,1-1.78-1.78V101.78A1.78,1.78,0,0,0,56,100"
+        transform="translate(-56 -96.441)" fill="none" stroke="currentColor" stroke-linecap="round"
+        stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_2718" data-name="Line 2718" x2="17.797" transform="translate(0 3.559)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_2719" data-name="Line 2719" y2="10.322" transform="translate(5.339 7.119)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_2720" data-name="Line 2720" y2="10.322" transform="translate(8.898 7.119)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <line id="Line_2721" data-name="Line 2721" y2="10.322" transform="translate(12.458 7.119)" fill="none"
+        stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" />
+      <path id="Path_36969" data-name="Path 36969"
+        d="M183.119,23.559H176V21.78A1.78,1.78,0,0,1,177.78,20h3.559a1.78,1.78,0,0,1,1.78,1.78Z"
+        transform="translate(-170.661 -20)" fill="none" stroke="currentColor" stroke-linecap="round"
+        stroke-linejoin="round" stroke-width="1.5" />
+    </g>
+  </g>
+</svg>

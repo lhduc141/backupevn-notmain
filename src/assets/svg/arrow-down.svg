@@ -1,0 +1,7 @@
+<svg id="Group_40538" data-name="Group 40538" xmlns="http://www.w3.org/2000/svg" width="16" height="16"
+  viewBox="0 0 16 16">
+  <rect id="Rectangle_14899" data-name="Rectangle 14899" width="16" height="16" fill="none" />
+  <path fill="currentColor" id="down-arrow"
+    d="M6.517,9.017a.913.913,0,0,1,1.291,0l5.441,5.441,5.441-5.441a.913.913,0,1,1,1.291,1.291L13.9,16.4a.913.913,0,0,1-1.291,0L6.517,10.309a.913.913,0,0,1,0-1.291Z"
+    transform="translate(-5.25 -4.706)" fill-rule="evenodd" />
+</svg>

@@ -1,0 +1,25 @@
+.loading-three-dots {
+  display: inline-flex;
+
+  .dot {
+    animation: bounce 0.6s infinite;
+    margin-right: 2px;
+  }
+
+  .dot:nth-child(2) {
+    animation-delay: 0.2s;
+  }
+
+  .dot:nth-child(3) {
+    animation-delay: 0.4s;
+  }
+}
+@keyframes bounce {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-2px);
+  }
+}

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path2211" d="M0-682.665H22v22H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_39346" data-name="Group 39346" transform="translate(906 -1)">
+    <g id="g2205" transform="translate(-906 1)">
+      <g id="g2207">
+        <g id="g2209" clip-path="url(#clip-path)">
+          <g id="g2215" transform="translate(0.645 3.91)">
+            <path id="path2217" d="M-583.243,0h-18.133a1.289,1.289,0,0,0-1.289,1.289v11.6a1.289,1.289,0,0,0,1.289,1.289h18.133a1.289,1.289,0,0,0,1.289-1.289V1.289A1.289,1.289,0,0,0-583.243,0Z" transform="translate(602.665)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2219" transform="translate(4.512 7.563)">
+            <path id="path2221" d="M-103.229-51.614a1.719,1.719,0,0,1-1.719,1.719,1.719,1.719,0,0,1-1.719-1.719,1.719,1.719,0,0,1,1.719-1.719A1.719,1.719,0,0,1-103.229-51.614Z" transform="translate(106.666 53.333)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2223" transform="translate(3.223 11)">
+            <path id="path2225" d="M-90.325,0h0a3.008,3.008,0,0,0-3.008,3.008v.43h6.016v-.43A3.008,3.008,0,0,0-90.325,0Z" transform="translate(93.333 0)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2227" transform="translate(11.902 13.578)">
+            <path id="path2229" d="M0,0H6.875" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2231" transform="translate(11.902 11)">
+            <path id="path2233" d="M0,0H6.875" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2235" transform="translate(11.902 8.422)">
+            <path id="path2237" d="M0,0H2.578" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

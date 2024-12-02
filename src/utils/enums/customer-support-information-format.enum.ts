@@ -1,0 +1,5 @@
+export enum CUSTOMER_SUPPORT_INFORMATION_FORMAT {
+  TEXT = 1,
+  LINK = 2,
+  EXCEL_TABLE = 3
+}

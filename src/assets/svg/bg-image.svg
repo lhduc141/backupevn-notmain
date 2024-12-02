@@ -1,0 +1,28 @@
+<svg id="Group_39835" data-name="Group 39835" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_15205" data-name="Rectangle 15205" width="1920" height="1080" fill="#c8121e"/>
+    </clipPath>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="1.205" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c8121e" stop-opacity="0.91"/>
+      <stop offset="0.686" stop-color="#6d0a10" stop-opacity="0.078"/>
+      <stop offset="1" stop-color="#690a10" stop-opacity="0.039"/>
+      <stop offset="1" stop-color="#64090f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a61220" stop-opacity="0.361"/>
+      <stop offset="1" stop-color="#530910" stop-opacity="0.388"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.151" cy="0.405" r="0.743" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c8121e" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#64090f" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g id="Mask_Group_9" data-name="Mask Group 9" clip-path="url(#clip-path)">
+    <path id="Path_36966" data-name="Path 36966" d="M0,420.558s124.911-357.961,791.8,0S1574.278,545.854,1635.21,453s97.669-252.432,279.506-191.5,0,821.351,0,821.351L0,1078.391Z" fill="url(#radial-gradient)"/>
+    <path id="Path_36946" data-name="Path 36946" d="M-2576.928,8626.895" transform="translate(4087 -8298)" fill="none"/>
+    <path id="Path_36967" data-name="Path 36967" d="M-4087,8591.077s379.891-264.794,620.167,44.132,745.345,475.648,902.259,372.673,259.89-323.637,397.19-230.469,0,603.141,0,603.141H-4087Z" transform="translate(4087 -8298)" fill="url(#linear-gradient)"/>
+    <path id="Path_36968" data-name="Path 36968" d="M-4087,8360.609s433.831-88.265,443.638,299.118,367.8,292.249,333.7,304.037,200.791-107.894,534.234,259.875c322.773,356,586.981-302.873,608.213-305.318.423-.089-.157,1.337,0,2.749,4.9,44.132,15.624,459.779,15.624,459.779L-4087,9380.555V8360.609" transform="translate(4087 -8298)" fill="rgba(200,18,30,0.52)"/>
+    <path id="Path_36969" data-name="Path 36969" d="M-3334.433,8298s169.74,532.213,720.449,230.454,445.094-113.159,445.094-113.159V8298Z" transform="translate(4087 -8298)" fill="url(#radial-gradient-2)"/>
+  </g>
+</svg>

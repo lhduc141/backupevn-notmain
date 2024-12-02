@@ -1,0 +1,25 @@
+.ant-upload-wrapper.ant-upload-picture-card-wrapper {
+  @apply overflow-hidden;
+}
+.server-upload-list-item-container {
+  @apply h-24 w-fit !important;
+}
+.server-upload.server-upload-select {
+  @apply h-24 w-24 !important;
+}
+
+.custom-upload-picture-card-wrapper {
+  .custom-upload-list-item-container {
+    @apply h-24 w-fit !important;
+  }
+
+  .custom-upload.custom-upload-select {
+    @apply h-24 w-24 !important;
+  }
+}
+.custom-dragger-list {
+  @apply mt-6;
+}
+.custom-dragger-list-item-container {
+  @apply h-20 w-fit max-w-48 !important;
+}

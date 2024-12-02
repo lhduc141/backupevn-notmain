@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="path2007" d="M0-682.665H17.5v17.5H0Z" transform="translate(0 682.665)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_41270" data-name="Group 41270" transform="translate(-1021 -873)">
+    <rect id="Rectangle_15665" data-name="Rectangle 15665" width="20" height="20" transform="translate(1021 873)" fill="none"/>
+    <g id="g2001" transform="translate(1022.25 874.25)">
+      <g id="g2003">
+        <g id="g2005" clip-path="url(#clip-path)">
+          <g id="g2011" transform="translate(0.684 0.684)">
+            <path id="path2013" d="M-306.6-613.2a8.066,8.066,0,0,1-8.066-8.066,8.066,8.066,0,0,1,8.066-8.066,8.066,8.066,0,0,1,8.066,8.066A8.066,8.066,0,0,1-306.6-613.2Z" transform="translate(314.666 629.332)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2015" transform="translate(5.879 10.835)">
+            <path id="path2017" d="M0,0A3.718,3.718,0,0,0,2.871,1.641,3.718,3.718,0,0,0,5.742,0" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+          </g>
+          <g id="g2019" transform="translate(4.888 5.64)">
+            <path id="path2021" d="M-227.351-32.479a.854.854,0,0,0,.854.854.854.854,0,0,0,.854-.854.854.854,0,0,0-.854-.854.854.854,0,0,0-.854.854m-5.127-.854a.854.854,0,0,1,.854.854.854.854,0,0,1-.854.854.854.854,0,0,1-.854-.854.854.854,0,0,1,.854-.854" transform="translate(233.333 33.333)" fill="currentColor"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

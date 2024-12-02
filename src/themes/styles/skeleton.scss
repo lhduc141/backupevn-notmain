@@ -1,0 +1,17 @@
+.skeleton-active {
+  background: linear-gradient(90deg, rgba(24, 24, 24, 0.12) 25%, rgba(24, 24, 24, 0.3) 37%, rgba(24, 24, 24, 0.12) 63%);
+  background-size: 400% 100%;
+  animation-name: skeleton-loading;
+  animation-duration: 1.4s;
+  animation-timing-function: ease;
+  animation-iteration-count: infinite;
+  opacity: 0.7;
+}
+@keyframes skeleton-loading {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}

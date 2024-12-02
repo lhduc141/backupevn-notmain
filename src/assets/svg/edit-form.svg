@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_40963" data-name="Group 40963" transform="translate(-143 -423)">
+    <rect id="Rectangle_15547" data-name="Rectangle 15547" width="24" height="24" transform="translate(143 423)" fill="none"/>
+    <g id="Quote_request" transform="translate(144.5 424.5)">
+      <path id="Path_37023" data-name="Path 37023" d="M25.418,41H21.78A1.78,1.78,0,0,1,20,39.22V21.78A1.78,1.78,0,0,1,21.78,20h8.542a1.774,1.774,0,0,1,1.258.521l1.78,1.78a1.774,1.774,0,0,1,.521,1.258v4.9" transform="translate(-20 -20)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Path_37024" data-name="Path 37024" d="M228.936,220.389a1.78,1.78,0,0,1,2.517,2.517l-7.356,7.356a1.779,1.779,0,0,1-.439.321l-2.492,1.293a.89.89,0,0,1-1.2-1.2l1.293-2.492a1.78,1.78,0,0,1,.321-.439Z" transform="translate(-210.975 -210.975)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_2775" data-name="Line 2775" x2="6.763" transform="translate(3.559 6.763)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_2776" data-name="Line 2776" x2="6.763" transform="translate(3.559 10.322)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <line id="Line_2777" data-name="Line 2777" x2="3.203" transform="translate(3.559 13.881)" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>

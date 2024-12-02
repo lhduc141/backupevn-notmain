@@ -1,0 +1,14 @@
+.ant-picker-outlined {
+  @apply min-h-10 border-colorBorderInput bg-colorBgInput;
+}
+.float-label {
+  .ant-picker-outlined {
+    @apply min-h-float-label-height;
+  }
+}
+
+.float-label:not(.no-label) {
+  .ant-picker-outlined {
+    @apply p-float-label-padding;
+  }
+}

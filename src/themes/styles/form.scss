@@ -1,0 +1,54 @@
+.ant-form-item {
+  .ant-form-item-label {
+    @apply pr-4 font-normal;
+  }
+
+  .ant-form-item-label > label::after {
+    @apply hidden;
+  }
+}
+
+.ant-form-item-with-help .ant-form-item-explain,
+.float-label-item-with-help .float-label-item-explain {
+  @apply pt-2;
+}
+.ant-form-item .ant-form-item-explain-error,
+.float-label-item .float-label-item-explain-error {
+  @apply text-xs;
+}
+
+.ant-form-item.hide-label .ant-form-item-label,
+.float-label-item .float-label-item-label {
+  @apply hidden;
+}
+
+.ant-form-item .ant-form-item-label > label {
+  @apply whitespace-pre-wrap;
+}
+
+.text-sm-label {
+  .ant-form-item .ant-form-item-label > label {
+    @apply text-sm;
+  }
+}
+
+.text-sm-select-placeholder {
+  .ant-select-single .ant-select-selector {
+    @apply text-sm;
+  }
+}
+
+.hidden-item {
+  .hidden-item-control-input,
+  .hidden-item-label {
+    @apply hidden;
+  }
+}
+
+.ant-form-item.hidden-label .ant-form-item-label {
+  @apply hidden;
+}
+.ant-form-item-with-help .ant-form-item-explain,
+.float-label-item-with-help .float-label-item-explain {
+  @apply pt-1;
+}
